@@ -1,0 +1,114 @@
+{
+  "name": "I truly love...Discord themes",
+  "description": "She kagura on my bachi 'til I proceed.",
+  "authors": [
+    {
+      "name": "Sivonrapmi",
+      "id": "353172451053797387"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#cacac9"
+    ],
+    "HEADER_SECONDARY": [
+      "#cacac9"
+    ],
+    "TEXT_NORMAL": [
+      "#fafafa"
+    ],
+    "TEXT_MUTED": [
+      "#5c5c5c"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#8f8f8f"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#c8c8c8"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#cacac9"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5c5c5c"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#19191a"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#3a3a3a"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#3a3a3a"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#505355"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#777878"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#3a3a3a"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#3a3a3a"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#3a3a3a"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#3a3a3a"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#484848"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#484848"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#5b5b5b"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#2f2f2f"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#8e8d8d"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#26273b"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#cacac9"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#cacac9"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#19191a"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8e8d8d"
+    ],
+    "TEXT_LINK": [
+      "#8e8d8d"
+    ],
+    "TEXT_DANGER": [
+      "#8e8d8d"
+    ],
+    "KEYBOARD": [
+      "#19191a"
+    ],
+    "CHANNEL_ICON": [
+      "#cacac9"
+    ],
+    "CHAT_BACKGROUND": [
+      "#19191a"
+    ]
+  },
+  "background": {
+    "url": "https://file.garden/ZdsZxRPsnD-ojfC0/Toyhouse%20Materials/GenichiSojo.png"
+  }
+}
